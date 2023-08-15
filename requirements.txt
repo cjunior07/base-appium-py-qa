@@ -1,0 +1,13 @@
+pytest
+boto3
+python-dotenv
+allure-pytest
+logzero
+jsonschema
+pytest-xdist
+faker
+psycopg2-binary
+hypothesis
+selenium
+Appium-Python-Client
+webdriver_manager
